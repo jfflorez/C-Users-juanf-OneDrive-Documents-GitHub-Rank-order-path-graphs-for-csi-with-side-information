@@ -7,7 +7,8 @@ This repository contains Matlab scripts to reproduce the illustrative examples o
 Future updates will include implementations of reconstruction methods for the problem of compressive spectral imaging with side information. 
 
 ## Dependencies:
-Wavelab850
+WaveLab850
+
 CVX
 
 
